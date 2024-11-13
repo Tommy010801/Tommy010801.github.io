@@ -63,10 +63,8 @@
     <h1 class="justify-self-center font-semibold text-xl">
         Tech Stack
     </h1>
-
     <br>
-
-    <div class="flex">
+    <div class="flex justify-center">
         <img class="h-16 mx-2" src="/src/assets/V.png" alt="Vue Logo">
         <img class="h-16 mx-2" src="/src/assets/Tailwind.png" alt="Vue Logo">
         <img class="h-16 mx-2" src="/src/assets/JS.png" alt="Vue Logo">

@@ -1,10 +1,10 @@
 <template> 
-    <div class=" top-0 p-3 flex justify-center gap-10 text-lg font-sans font-semibold bg-white/10">
+    <div class=" top-0 p-3 flex justify-center gap-10 text-base font-sans font-semibold bg-white/10">
         <router-link 
             to="/" 
-            class="text-slate-50 border-solid border-2 rounded-full border-slate-50 py-1 px-3 bg-black/10 hover:bg-white-500 hover:text-neutral-700 hover:bg-slate-50 duration-500"
+            class=" text-slate-50 border-solid border-2 rounded-full border-slate-50 py-1 px-3 bg-black/10 hover:bg-white-500 hover:text-neutral-700 hover:bg-slate-50 duration-500"
             >
-            Über mich
+            Home
         </router-link>
 
         <router-link 
@@ -24,7 +24,9 @@
     <div class="">
         <router-view/>
     </div>
-    <CompFooter/>
+    <div class="bottom-0">
+        <CompFooter/>
+    </div>
 </template>
 
 <script setup>
