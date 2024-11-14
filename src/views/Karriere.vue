@@ -1,9 +1,23 @@
 <template>
-     <div class="justify-self-center bg-white p-8 rounded-lg mt-8 font-sans shadow-2xl">
-        <h1 class="justify-self-center font-semibold text-2xl pb-5 underline">
-            Berufserfahrung
+<div class="flex-col flex-grow min-h-screen ">
+    <div class="justify-self-center bg-white p-2 rounded-lg mt-5 font-sans ">
+        <h1 class="justify-self-center font-semibold text-2xl mb-3">
+            Tech Stack
         </h1>
-        
+        <div class="flex justify-center">
+            <img class="h-10 mx-1" src="/src/assets/V.png" alt="Vue Logo">
+            <img class="h-10 mx-1" src="/src/assets/Tailwind.png" alt="Vue Logo">
+             <img class="h-10 mx-1" src="/src/assets/JS.png" alt="Vue Logo">
+            <img class="h-10 mx-1" src="/src/assets/Git.png" alt="Vue Logo">
+             <img class="h-10 mx-1" src="/src/assets/Html.png" alt="Vue Logo">
+             <img class="h-10 mx-1" src="/src/assets/Css.png" alt="Vue Logo">
+        </div>
+    </div>
+
+    <div class="justify-self-center bg-white p-2 rounded-lg mt-5 font-sans ">
+        <h1 class="justify-self-center font-semibold text-2xl pb-5 underline">
+                Berufserfahrung
+        </h1>       
         <li class="font-semibold text-lg">
             seele
         </li>
@@ -57,23 +71,8 @@
             2015-2019 | Fachschule für Maschinenbau
         </p>
     </div>
-
-<div class="justify-self-center bg-white p-5 rounded-lg mt-16 font-sans shadow-2xl">
-
-    <h1 class="justify-self-center font-semibold text-xl">
-        Tech Stack
-    </h1>
-    <br>
-    <div class="flex justify-center">
-        <img class="h-16 mx-2" src="/src/assets/V.png" alt="Vue Logo">
-        <img class="h-16 mx-2" src="/src/assets/Tailwind.png" alt="Vue Logo">
-        <img class="h-16 mx-2" src="/src/assets/JS.png" alt="Vue Logo">
-        <img class="h-16 mx-2" src="/src/assets/Git.png" alt="Vue Logo">
-        <img class="h-16 mx-2" src="/src/assets/Html.png" alt="Vue Logo">
-        <img class="h-16 mx-2" src="/src/assets/Css.png" alt="Vue Logo">
-    </div>
-
 </div>
+  
 </template>
 
 <script>

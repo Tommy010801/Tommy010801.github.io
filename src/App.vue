@@ -21,10 +21,10 @@
         </router-link> 
 
     </div>  
-    <div class="">
+    <div>
         <router-view/>
     </div>
-    <div class="bottom-0">
+    <div class="flex bottom-0">
         <CompFooter/>
     </div>
 </template>

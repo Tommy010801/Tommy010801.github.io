@@ -2,7 +2,7 @@
     
     <img class="h-56 w-fit justify-self-center mt-10 rounded-md" src="/src/assets/Portrait.jpg" alt="Portrait">
 
-    <div class="flex flex-col" >
+    <div class="flex flex-col flex-grow min-h-screen " >
         <h1 class="text-white text-3xl uppercasefont-semibolds font-sans px-5 pt-8 overline ">
             Über mich
         </h1>

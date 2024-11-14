@@ -1,5 +1,5 @@
 <template>
-    <div class="projekte">
+    <div class="projekte flex-grow min-h-screen">
 
         <img class="h-44 mt-20 justify-self-center bg-white/30 rounded-xl shadow-lg" src="/src/assets/Work.png" alt="Vue Logo">
 
