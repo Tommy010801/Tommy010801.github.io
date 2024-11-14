@@ -3,7 +3,7 @@
 
         <img class="h-44 mt-20 justify-self-center bg-white/30 rounded-xl shadow-lg" src="/src/assets/Work.png" alt="Vue Logo">
 
-        <h1 class="justify-self-center text-2xl mt-3">
+        <h1 class="justify-self-center text-2xl mt-3 text-white">
             in Arbeit
         </h1>
     </div>

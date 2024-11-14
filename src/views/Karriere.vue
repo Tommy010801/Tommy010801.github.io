@@ -6,15 +6,15 @@
         </h1>
         <div class="flex justify-center">
             <img class="h-10 mx-1" src="/src/assets/V.png" alt="Vue Logo">
-            <img class="h-10 mx-1" src="/src/assets/Tailwind.png" alt="Vue Logo">
-             <img class="h-10 mx-1" src="/src/assets/JS.png" alt="Vue Logo">
-            <img class="h-10 mx-1" src="/src/assets/Git.png" alt="Vue Logo">
-             <img class="h-10 mx-1" src="/src/assets/Html.png" alt="Vue Logo">
-             <img class="h-10 mx-1" src="/src/assets/Css.png" alt="Vue Logo">
+            <img class="h-10 mx-1" src="/src/assets/Tailwind.png" alt="tailwind Logo">
+            <img class="h-10 mx-1" src="/src/assets/JS.png" alt="JS Logo">
+            <img class="h-10 mx-1" src="/src/assets/Git.png" alt="Git Logo">
+            <img class="h-10 mx-1" src="/src/assets/Html.png" alt="HTML Logo">
+            <img class="h-10 mx-1" src="/src/assets/Css.png" alt="CSS Logo">
         </div>
     </div>
 
-    <div class="justify-self-center bg-white p-2 rounded-lg mt-5 font-sans ">
+    <div class="justify-self-center bg-white p-2 rounded-lg mt-5 font-sans">
         <h1 class="justify-self-center font-semibold text-2xl pb-5 underline">
                 Berufserfahrung
         </h1>       
