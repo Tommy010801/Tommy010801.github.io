@@ -24,7 +24,7 @@
     <div>
         <router-view/>
     </div>
-    <div class="flex bottom-0">
+    <div>
         <CompFooter/>
     </div>
 </template>
